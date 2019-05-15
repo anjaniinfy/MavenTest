@@ -1,0 +1,98 @@
+2019-05-15 19:02:04,141  INFO [main] ContactPageTest:43 - Chrome driver is starting
+2019-05-15 19:02:04,149  WARN [main] ContactPageTest:44 - This is the Warning message
+2019-05-15 19:02:04,149 FATAL [main] ContactPageTest:45 - This is fatal message
+2019-05-15 19:02:04,149 ERROR [main] ContactPageTest:46 - This the error message
+2019-05-15 19:02:04,149 DEBUG [main] ContactPageTest:47 - this is the debug message
+2019-05-15 19:02:10,054  INFO [main] ContactPageTest:72 - Url is getting fetched
+2019-05-15 19:02:15,947  INFO [main] ContactPageTest:29 - Validate Login page Logo TC1
+2019-05-15 19:02:15,959  INFO [main] ContactPageTest:49 - Close the Browser 
+2019-05-15 19:02:16,630  INFO [main] ContactPageTest:43 - Chrome driver is starting
+2019-05-15 19:02:16,630  WARN [main] ContactPageTest:44 - This is the Warning message
+2019-05-15 19:02:16,630 FATAL [main] ContactPageTest:45 - This is fatal message
+2019-05-15 19:02:16,630 ERROR [main] ContactPageTest:46 - This the error message
+2019-05-15 19:02:16,646 DEBUG [main] ContactPageTest:47 - this is the debug message
+2019-05-15 19:02:20,764  INFO [main] ContactPageTest:72 - Url is getting fetched
+2019-05-15 19:02:33,581  INFO [main] ContactPageTest:41 - Validate Homepage Logo TC4
+2019-05-15 19:02:33,593  INFO [main] ContactPageTest:63 - Close the Brower
+2019-05-15 19:02:34,325  INFO [main] ContactPageTest:43 - Chrome driver is starting
+2019-05-15 19:02:34,329  WARN [main] ContactPageTest:44 - This is the Warning message
+2019-05-15 19:02:34,329 FATAL [main] ContactPageTest:45 - This is fatal message
+2019-05-15 19:02:34,329 ERROR [main] ContactPageTest:46 - This the error message
+2019-05-15 19:02:34,329 DEBUG [main] ContactPageTest:47 - this is the debug message
+2019-05-15 19:02:38,528  INFO [main] ContactPageTest:72 - Url is getting fetched
+2019-05-15 19:02:53,200  INFO [main] ContactPageTest:41 - **********************Contact Label TestCase TC7*****************************
+2019-05-15 19:02:53,292  INFO [main] ContactPageTest:75 - Browser is getting closed
+2019-05-15 19:02:54,038  INFO [main] ContactPageTest:43 - Chrome driver is starting
+2019-05-15 19:02:54,038  WARN [main] ContactPageTest:44 - This is the Warning message
+2019-05-15 19:02:54,038 FATAL [main] ContactPageTest:45 - This is fatal message
+2019-05-15 19:02:54,042 ERROR [main] ContactPageTest:46 - This the error message
+2019-05-15 19:02:54,042 DEBUG [main] ContactPageTest:47 - this is the debug message
+2019-05-15 19:02:57,887  INFO [main] ContactPageTest:72 - Url is getting fetched
+2019-05-15 19:03:05,268  INFO [main] ContactPageTest:36 - Validate Login page Image TC2
+2019-05-15 19:03:05,316  INFO [main] ContactPageTest:49 - Close the Browser 
+2019-05-15 19:03:06,009  INFO [main] ContactPageTest:43 - Chrome driver is starting
+2019-05-15 19:03:06,009  WARN [main] ContactPageTest:44 - This is the Warning message
+2019-05-15 19:03:06,009 FATAL [main] ContactPageTest:45 - This is fatal message
+2019-05-15 19:03:06,013 ERROR [main] ContactPageTest:46 - This the error message
+2019-05-15 19:03:06,013 DEBUG [main] ContactPageTest:47 - this is the debug message
+2019-05-15 19:03:09,934  INFO [main] ContactPageTest:72 - Url is getting fetched
+2019-05-15 19:03:23,781  INFO [main] ContactPageTest:48 - Validate UserName  TC5
+2019-05-15 19:03:23,900  INFO [main] ContactPageTest:63 - Close the Brower
+2019-05-15 19:03:24,614  INFO [main] ContactPageTest:43 - Chrome driver is starting
+2019-05-15 19:03:24,614  WARN [main] ContactPageTest:44 - This is the Warning message
+2019-05-15 19:03:24,618 FATAL [main] ContactPageTest:45 - This is fatal message
+2019-05-15 19:03:24,618 ERROR [main] ContactPageTest:46 - This the error message
+2019-05-15 19:03:24,618 DEBUG [main] ContactPageTest:47 - this is the debug message
+2019-05-15 19:03:28,267  INFO [main] ContactPageTest:72 - Url is getting fetched
+2019-05-15 19:03:44,534  INFO [main] ContactPageTest:48 - ********************** select single Contact TC8 *****************************
+2019-05-15 19:03:44,721  INFO [main] ContactPageTest:75 - Browser is getting closed
+2019-05-15 19:03:45,466  INFO [main] ContactPageTest:43 - Chrome driver is starting
+2019-05-15 19:03:45,470  WARN [main] ContactPageTest:44 - This is the Warning message
+2019-05-15 19:03:45,470 FATAL [main] ContactPageTest:45 - This is fatal message
+2019-05-15 19:03:45,470 ERROR [main] ContactPageTest:46 - This the error message
+2019-05-15 19:03:45,470 DEBUG [main] ContactPageTest:47 - this is the debug message
+2019-05-15 19:03:49,397  INFO [main] ContactPageTest:72 - Url is getting fetched
+2019-05-15 19:03:55,692  INFO [main] ContactPageTest:43 - Validate Login to CRM application is scuccessful TC3
+2019-05-15 19:04:03,417  INFO [main] ContactPageTest:49 - Close the Browser 
+2019-05-15 19:04:04,147  INFO [main] ContactPageTest:43 - Chrome driver is starting
+2019-05-15 19:04:04,147  WARN [main] ContactPageTest:44 - This is the Warning message
+2019-05-15 19:04:04,147 FATAL [main] ContactPageTest:45 - This is fatal message
+2019-05-15 19:04:04,147 ERROR [main] ContactPageTest:46 - This the error message
+2019-05-15 19:04:04,147 DEBUG [main] ContactPageTest:47 - this is the debug message
+2019-05-15 19:04:07,880  INFO [main] ContactPageTest:72 - Url is getting fetched
+2019-05-15 19:04:21,622  INFO [main] ContactPageTest:56 - Validate contact link is working TC6
+2019-05-15 19:04:23,722  INFO [main] ContactPageTest:63 - Close the Brower
+2019-05-15 19:04:24,441  INFO [main] ContactPageTest:43 - Chrome driver is starting
+2019-05-15 19:04:24,445  WARN [main] ContactPageTest:44 - This is the Warning message
+2019-05-15 19:04:24,445 FATAL [main] ContactPageTest:45 - This is fatal message
+2019-05-15 19:04:24,445 ERROR [main] ContactPageTest:46 - This the error message
+2019-05-15 19:04:24,445 DEBUG [main] ContactPageTest:47 - this is the debug message
+2019-05-15 19:04:28,449  INFO [main] ContactPageTest:72 - Url is getting fetched
+2019-05-15 19:04:43,827  INFO [main] ContactPageTest:54 - ********************** select Multiple Contact TC9 *****************************
+2019-05-15 19:04:44,249  INFO [main] ContactPageTest:75 - Browser is getting closed
+2019-05-15 19:04:45,620  INFO [main] ContactPageTest:43 - Chrome driver is starting
+2019-05-15 19:04:45,620  WARN [main] ContactPageTest:44 - This is the Warning message
+2019-05-15 19:04:45,620 FATAL [main] ContactPageTest:45 - This is fatal message
+2019-05-15 19:04:45,620 ERROR [main] ContactPageTest:46 - This the error message
+2019-05-15 19:04:45,620 DEBUG [main] ContactPageTest:47 - this is the debug message
+2019-05-15 19:04:49,439  INFO [main] ContactPageTest:72 - Url is getting fetched
+2019-05-15 19:05:05,119  INFO [main] ContactPageTest:67 - **********************Validate Creat New Contact TC10/TC11*****************************
+2019-05-15 19:05:11,420  INFO [main] ContactPageTest:75 - Browser is getting closed
+2019-05-15 19:05:12,160  INFO [main] ContactPageTest:43 - Chrome driver is starting
+2019-05-15 19:05:12,160  WARN [main] ContactPageTest:44 - This is the Warning message
+2019-05-15 19:05:12,164 FATAL [main] ContactPageTest:45 - This is fatal message
+2019-05-15 19:05:12,164 ERROR [main] ContactPageTest:46 - This the error message
+2019-05-15 19:05:12,164 DEBUG [main] ContactPageTest:47 - this is the debug message
+2019-05-15 19:05:16,100  INFO [main] ContactPageTest:72 - Url is getting fetched
+2019-05-15 19:05:31,883  INFO [main] ContactPageTest:67 - **********************Validate Creat New Contact TC10/TC11*****************************
+2019-05-15 19:05:37,439  INFO [main] ContactPageTest:75 - Browser is getting closed
+2019-05-15 19:05:38,743 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2019-05-15 19:05:38,743 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2019-05-15 19:05:38,747 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-05-15 19:05:38,747 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-05-15 19:05:38,747 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Anjani/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-05-15 19:05:39,348 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2019-05-15 19:05:39,348 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2019-05-15 19:05:39,348 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-05-15 19:05:39,348 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-05-15 19:05:39,352 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Anjani/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
